@@ -84,11 +84,11 @@
 		</dependency>
 		
 		<!-- 分布式锁 - Redisson -->
-		<dependency>
-			<groupId>org.redisson</groupId>
-			<artifactId>redisson-spring-boot-starter</artifactId>
-			<version>3.24.3</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>org.redisson</groupId>-->
+<!--			<artifactId>redisson-spring-boot-starter</artifactId>-->
+<!--			<version>3.24.3</version>-->
+<!--		</dependency>-->
 		
 		<!-- ========== 安全认证相关 ========== -->
 		<!-- JWT支持 -->

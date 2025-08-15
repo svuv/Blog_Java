@@ -459,7 +459,7 @@ public class AuthController {
 ## ⚙️ 配置文件
 
 ```yaml
-# application.yml
+# application.properties
 jwt:
   secret: blog-jwt-secret-key-2024-very-long-secret
   expiration: 86400 # 24小时，单位：秒
